@@ -1,0 +1,12 @@
+{
+    "user":"User",
+    "email":"Email",
+    "phone":"Phone",
+    "joined":"Joined",
+    "status":"Status",
+    "actions":"Actions",
+    "dashboard":"Dashboard",
+    "users":"Users",
+    "details":"Details",
+    "delete-message":"Are you sure you want to delete this User?"
+}
